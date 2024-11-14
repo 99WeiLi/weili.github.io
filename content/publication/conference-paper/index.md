@@ -61,7 +61,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'review-paper.pdf'
+url_pdf: ''
+url_doi: 'https://journals.sagepub.com/doi/full/10.1080/09506608.2022.2077028'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
