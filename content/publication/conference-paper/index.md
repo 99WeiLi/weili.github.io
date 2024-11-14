@@ -1,40 +1,57 @@
 ---
-title: '1'
+title: 'Ceramic-based electromagnetic wave absorbing materials and concepts towards lightweight, flexibility and thermal resistance'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+- admin
+- Zhaoju Yu
+- Qingbo Wen
+- Yao Feng
+- Bingbing Fan
+- Rui Zhang
+- Ralf Riedel
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
-doi: ''
+date: "2023-07-01"
+doi: "10.1080/09506608.2022.2077028"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: "2024-11-14T19:51:26.479894Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: '*International Materials Reviews*'
+publication_short: 
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
+abstract: Electromagnetic wave (EMW) absorbing materials have attracted much attention
+  in recent years due to the dramatical increase of high-frequency electronic components
+  and devices, which generate electromagnetic (EM) pollution and cause serious electromagnetic
+  interference (EMI). Ceramics and associated (nano)composites are widely investigated
+  as EMW absorbing materials because of their excellent mechanical properties, chemical/
+  thermal stabilities, and oxidation/corrosion resistance. In addition to outstanding
+  EMW absorbing performance, lightweight, ﬂexibility and thermal resistance at high
+  temperatures strongly aﬀect their practical applications. Therefore, this review
+  highlights the recent progress of advanced ceramic-based EMW absorbing materials
+  by evaluating their vital EMW absorption parameters. First, the fundamentals of
+  EMW absorption are brieﬂy summarized, followed by the eﬀects of phase/chemical composition,
+  micro/nano structure, and morphology on the EMW absorbing performance and associated
+  mechanisms. Furthermore, modern strategies for the preparation of lightweight, ﬂexible
+  and thermal resistant EMW absorbing materials are comprehensively reviewed. Finally,
+  the perspectives of advancedceramics as EMW absorbing materials are discussed as
+  well.
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Ceramic-based materials are the most researched materials for EMW absorption applications under relatively high temperature due to their outstanding chemical and thermal stability. EMW absorbing materials with flexibility and lightweight become future challenges for the next-generation of flexible electronic devices.
 
 tags:
-  - Large Language Models
+  - EMW absorbing
 
 # Display this page in the Featured widget?
 featured: true
@@ -44,19 +61,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_pdf: 'https://journals.sagepub.com/doi/full/10.1080/09506608.2022.2077028'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'EMWs in the living space of human beings'
   focal_point: ''
   preview_only: false
 
@@ -68,12 +78,6 @@ image:
 projects:
   - example
 
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
 ---
 
 {{% callout note %}}
