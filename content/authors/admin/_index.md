@@ -74,7 +74,7 @@ work:
   - position: Postdoc
     company_name: University of Alabama at Birmingham
     company_url: 'https://www.uab.edu/engineering/mme/'
-    company_logo: ''
+    company_logo: '![alt text](image.png)'
     date_start: 2023-12-18
     date_end: ''
     summary: |
