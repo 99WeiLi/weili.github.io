@@ -74,7 +74,7 @@ work:
   - position: Postdoc
     company_name: University of Alabama at Birmingham
     company_url: 'https://www.uab.edu/engineering/mme/'
-    company_logo: '![alt text](image.png)'
+    company_logo: ''
     date_start: 2023-12-18
     date_end: ''
     summary: |
@@ -124,13 +124,7 @@ skills:
         percent: 80
         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
