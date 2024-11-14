@@ -47,8 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
+  - Ceramic
+  - PDC
   - Information Retrieval
 
 education:
