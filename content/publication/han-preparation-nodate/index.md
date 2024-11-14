@@ -8,7 +8,7 @@ authors:
 - LIU Guoqi
 - CHEN Zihao
 - CHEN Yongqiang
-date: -01-01
+date: 2024-01-01
 publishDate: '2024-11-14T19:51:26.494418Z'
 publication_types:
 - article-journal
