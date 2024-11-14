@@ -35,9 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a materials scientist dedicated to studying advanced ceramics and improving their properties for optimized performance in both structural and functional applications.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        One of my research interests is focused on polymer-derived ceramics (PDCs) and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment.
+
+        Another research interest is devoted to high pressure and high temperature synthesis of novel transition metal nitrides and their solid solutions. 
         
         Please reach out to collaborate 😃
     design:
