@@ -48,7 +48,7 @@ interests:
   - Ultrahigh Temperature Ceramics
 
 education:
-  - area: PhD Materials Science
+  - area: PhD Materials Science, 2019.10-2023.02
     institution: Technical University of Darmstadt
     date_start: 2019-10-01
     date_end: 2023-02-21
@@ -57,7 +57,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MSc Materials Science
+  - area: MSc Materials Science, 2016.09-2019.06
     institution: Zhengzhou University
     date_start: 2016-09-01
     date_end: 2019-06-30
@@ -65,7 +65,7 @@ education:
       
 
   - area: BSc Materials Science
-    institution: Henan University of Technology
+    institution: Henan University of Technology, 2012.09-2016.04
     date_start: 2012-09-01
     date_end: 2016-06-30
     summary: |
@@ -125,4 +125,4 @@ awards:
 
 ## About Me
 
-Hi there! I am Wei Li. I received my PhD degree in Materials Science from the Technical University of Darmstadt in Germany. Since 2024, I have been working as a postdoctoral researcher in Prof. Kathy Lu’s group at the University of Alabama at Birmingham. One of my research interests is focused on polymer-derived ceramics (PDCs) and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment.
+Hi there! I am Wei Li. I received my PhD degree from the Technical University of Darmstadt in Germany. I am working as a postdoctoral researcher in Prof. Kathy Lu’s group at the University of Alabama at Birmingham. One of my research interests is focused on polymer-derived ceramics and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment.
