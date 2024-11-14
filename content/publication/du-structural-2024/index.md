@@ -4,7 +4,7 @@ title: Structural, thermal, magnetic and microwave-absorbing properties of spine
 authors:
 - Jiaolong Du
 - Shen Bao
-- <b>Wei Li</b>
+- admin
 - Yongqiang Chen
 - Bingbing Fan
 date: '2024-05-01'
