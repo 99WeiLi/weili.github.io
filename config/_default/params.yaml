@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Wei Li. This work is licensed under {license}'
+    notice: '© {year} Wei Li.'
     license:
       enable: true
       allow_derivatives: false
