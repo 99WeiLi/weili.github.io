@@ -21,5 +21,5 @@ sections:
   - block: resume-awards
     content:
       title: Awards
-      username: admin
-  
+      username: admin 
+---
