@@ -10,3 +10,8 @@ banner:
   caption: ''
   image: ''
 ---
+{{ range .Pages }}
+  - **{{ .PageCount }}.** [{{ .Title }}]({{ .Permalink }})  
+    **Authors**: {{ .Params.authors }}  
+    **Year**: {{ .Params.year }}  
+{{ end }}
