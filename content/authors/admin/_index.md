@@ -77,7 +77,7 @@ work:
     company_logo: ''
     date_start: 2023-12
     date_end: ''
-    summary: 
+    summary: |
       
   - position: Postdoc
     company_name: Technical University of Darmstadt
