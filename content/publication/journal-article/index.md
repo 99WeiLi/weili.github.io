@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "3"
 authors:
 - admin
 - Robert Ford
