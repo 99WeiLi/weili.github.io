@@ -10,8 +10,11 @@ banner:
   caption: ''
   image: ''
 ---
+## Publications
+
 {{ range .Pages }}
   - **{{ .Loop.Index }}.** [{{ .Title }}]({{ .Permalink }})  
-    **Authors**: {{ .Params.authors }}  
-    **Year**: {{ .Params.year }}  
+    **Authors**: {{ .Params.authors | join ", " }}  
+    **Year**: {{ .Params.date | date "2006" }}  
+    **DOI**: [{{ .Params.doi }}](https://doi.org/{{ .Params.doi }})
 {{ end }}
