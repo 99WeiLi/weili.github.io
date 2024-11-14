@@ -10,12 +10,11 @@ banner:
   caption: ''
   image: ''
 
-## Publications
-
+{{ $counter := 1 }}  <!-- Initialize a counter variable -->
 {{ range .Pages }}
-  {{ $index := add 1 (index .Params "number" 0) }}  <!-- Extracts the 'number' and starts from 1 -->
-  - **{{ $index }}.** [{{ .Title }}]({{ .Permalink }})  
+  - **{{ $counter }}.** [{{ .Title }}]({{ .Permalink }})  
     **Authors**: {{ .Params.authors }}  
     **Year**: {{ .Params.year }}  
+  {{ $counter = add $counter 1 }} <!-- Increment the counter for the next publication -->
 {{ end }}
 ---
