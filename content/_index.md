@@ -26,7 +26,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: home-banner.png
           filters:
-            brightness: 0.1
+            brightness: 0.5
           size: cover
           position: center
           parallax: false
