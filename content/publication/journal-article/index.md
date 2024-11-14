@@ -47,7 +47,7 @@ summary: Ceramic-based materials are the most researched materials for EMW absor
 
 tags:
 - EMW absorbing
-featured: false
+featured: true
 
 # links:
 # - name: ""
