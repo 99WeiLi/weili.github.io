@@ -37,9 +37,7 @@ sections:
       text: |-
         I am a materials scientist dedicated to studying advanced ceramics and improving their properties for optimized performance in both structural and functional applications.
 
-        One of my research interests is focused on polymer-derived ceramics (PDCs) and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment.
-
-        Another research interest is devoted to high pressure and high temperature synthesis of novel transition metal nitrides and their solid solutions. 
+        One of my research interests is focused on polymer-derived ceramics (PDCs) and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment. Another research interest is devoted to high pressure and high temperature synthesis of novel transition metal nitrides and their solid solutions. 
         
         Please reach out to collaborate 😃
     design:
