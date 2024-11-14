@@ -11,7 +11,7 @@ banner:
   image: ''
 ---
 {{ range .Pages }}
-  - **{{ .PageCount }}.** [{{ .Title }}]({{ .Permalink }})  
+  - **{{ .Loop.Index }}.** [{{ .Title }}]({{ .Permalink }})  
     **Authors**: {{ .Params.authors }}  
     **Year**: {{ .Params.year }}  
 {{ end }}
