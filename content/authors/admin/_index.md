@@ -50,8 +50,8 @@ interests:
 education:
   - area: PhD Materials Science
     institution: Technical University of Darmstadt
-    date_start: 2019-10
-    date_end: 2023-02
+    date_start: 2019-10-01
+    date_end: 2023-02-21
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Ralf Riedel](https://www.mawi.tu-darmstadt.de/mr/mr/employees/kontakt_details_113152.en.jsp).
     button:
@@ -59,15 +59,15 @@ education:
       url: 'https://example.com'
   - area: MSc Materials Science
     institution: Zhengzhou University
-    date_start: 2016-09
-    date_end: 2019-06
+    date_start: 2016-09-01
+    date_end: 2019-06-30
     summary: |
       
 
   - area: BSc Materials Science
     institution: Henan University of Technology
-    date_start: 2012-09
-    date_end: 2016-06
+    date_start: 2012-09-01
+    date_end: 2016-06-30
     summary: |
       
 work:
@@ -75,7 +75,7 @@ work:
     company_name: University of Alabama at Birmingham
     company_url: 'https://www.uab.edu/engineering/mme/'
     company_logo: ''
-    date_start: 2023-12
+    date_start: 2023-12-18
     date_end: ''
     summary: |
       
@@ -83,8 +83,8 @@ work:
     company_name: Technical University of Darmstadt
     company_url: 'https://www.mawi.tu-darmstadt.de/materialwissenschaft/willkommen_mawi/index.de.jsp'
     company_logo: ''
-    date_start: 2023-02
-    date_end: 2023-12
+    date_start: 2023-02-22
+    date_end: 2023-12-13
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
