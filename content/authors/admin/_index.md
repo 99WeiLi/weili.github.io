@@ -125,4 +125,4 @@ awards:
 
 ## About Me
 
-Hi there! I am Wei Li. 
+Hi there! I am Wei Li. I received my PhD degree in Materials Science from the Technical University of Darmstadt in Germany, where I started his first postdoctoral career in the research group of Prof. Ralf Riedel and Prof. Anke Weidenkaff until the end of 2023. Since 2024, I have been working as a postdoctoral researcher in Prof. Kathy Lu’s group at the University of Alabama at Birmingham. One of my research interests is focused on polymer-derived ceramics (PDCs) and cold sintering, particularly on the development of advanced ceramic nanocomposites with tailor-made chemical/phase compositions and microstructures for structural and functional applications in harsh environment.
