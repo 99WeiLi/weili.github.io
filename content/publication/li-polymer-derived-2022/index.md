@@ -2,7 +2,7 @@
 title: 'Polymer-derived SiHfN ceramics: From amorphous bulk ceramics with excellent
   mechanical properties to high temperature resistant ceramic nanocomposites'
 authors:
-- Wei Li
+- admin
 - Fen Li
 - Zhaoju Yu
 - Qingbo Wen

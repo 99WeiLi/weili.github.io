@@ -4,7 +4,7 @@ title: Enhanced electromagnetic wave absorption via optical fiber-like PMMA@Ti3C
 authors:
 - Huanhuan Niu
 - Xuewen Jiang
-- Wei Li
+- admin
 - Zhiyu Min
 - Budi Riza Putra
 - Wulan Tri Wahyuni

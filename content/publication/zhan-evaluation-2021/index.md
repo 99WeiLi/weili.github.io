@@ -7,7 +7,7 @@ title: Evaluation of mechanical properties and hydrophobicity of textlessspan
 authors:
 - Ying Zhan
 - Ralf Grottenmüller
-- Wei Li
+- admin
 - Farhan Javaid
 - Ralf Riedel
 date: '2021-06-01'

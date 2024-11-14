@@ -4,7 +4,7 @@ title: Single-source-precursor synthesis of dense monolithic SiC/(Ti0.25Zr0.25Hf
 authors:
 - Li Lu
 - Tonghui Wen
-- Wei Li
+- admin
 - Qingbo Wen
 - Zhaoju Yu
 - Shasha Tao

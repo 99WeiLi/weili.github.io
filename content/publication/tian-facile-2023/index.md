@@ -8,7 +8,7 @@ authors:
 - Chuanmu Tian
 - Emmanuel Iii Ricohermoso
 - Zhiwu Yang
-- Wei Li
+- admin
 - Monika Wilamowska-Zawlocka
 - Jan P. Hofmann
 - Anke Weidenkaff

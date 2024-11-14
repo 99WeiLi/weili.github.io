@@ -6,7 +6,7 @@ authors:
 - Tianhang Zhou
 - Saeed Mahmoodpour
 - Mrityunjay Singh
-- Wei Li
+- admin
 - Saientan Bag
 - Ingo Sass
 - Florian Müller-Plathe

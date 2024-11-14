@@ -8,7 +8,7 @@ authors:
 - Xiaoqi Zhang
 - Min Lian
 - Xinmiao Wei
-- Wei Li
+- admin
 - Cun You
 - Qiang Tao
 - Tian Cui

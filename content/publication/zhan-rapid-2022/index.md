@@ -3,7 +3,7 @@ title: Rapid curing of polysilazane coatings at room temperature via chloride-ca
   hydrolysis/condensation reactions
 authors:
 - Ying Zhan
-- Wei Li
+- admin
 - Ralf Grottenmüller
 - Christian Minnert
 - Thomas Krasemann

@@ -2,7 +2,7 @@
 title: High‐Pressure Synthesis of Amorphous Si$_textrm3$N$_textrm4$ and SiBN‐Based
   Monoliths without Sintering Additives
 authors:
-- Wei Li
+- admin
 - Shuailing Ma
 - Siwen Cui
 - Jingxue Ding

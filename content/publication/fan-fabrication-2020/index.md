@@ -2,7 +2,7 @@
 title: Fabrication and properties of Si2N2O ceramics for microwave sintering furnace
 authors:
 - Bingbing Fan
-- Wei Li
+- admin
 - Fan Zhang
 - Hongxia Li
 - Rui Zhang

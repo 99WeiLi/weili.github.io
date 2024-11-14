@@ -4,7 +4,7 @@ title: Phase composition, microstructure, and mechanical properties of polymer-d
 authors:
 - Jiongjie Liu
 - Emmanuel Ricohermoso
-- Wei Li
+- admin
 - Xingmin Liu
 - Zhuhui Qiao
 - Emanuel Ionescu

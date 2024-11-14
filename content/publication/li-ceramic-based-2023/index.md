@@ -2,7 +2,7 @@
 title: Ceramic-based electromagnetic wave absorbing materials and concepts towards
   lightweight, flexibility and thermal resistance
 authors:
-- Wei Li
+- admin
 - Zhaoju Yu
 - Qingbo Wen
 - Yao Feng

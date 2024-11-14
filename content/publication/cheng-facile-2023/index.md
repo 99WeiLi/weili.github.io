@@ -4,7 +4,7 @@ title: Facile design of multifunctional melamine foam with Ni-anchored reduced g
 authors:
 - Haoran Cheng
 - Yamin Pan
-- Wei Li
+- admin
 - Chuntai Liu
 - Changyu Shen
 - Xianhu Liu

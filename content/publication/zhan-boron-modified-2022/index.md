@@ -3,7 +3,7 @@ title: Boron-modified perhydropolysilazane towards facile synthesis of amorphous
   ceramic with excellent thermal stability
 authors:
 - Ying Zhan
-- Wei Li
+- admin
 - Tianshu Jiang
 - Claudia Fasel
 - Emmanuel Ricohermoso

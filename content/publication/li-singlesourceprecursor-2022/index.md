@@ -2,7 +2,7 @@
 title: Single‐source‐precursor derived bulk Si3N4/HfBxN1‐x ceramic nanocomposites
   with excellent oxidation resistance
 authors:
-- Wei Li
+- admin
 - Hanzi Du
 - Chuanmu Tian
 - Tianshu Jiang

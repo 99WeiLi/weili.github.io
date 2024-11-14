@@ -3,7 +3,7 @@ title: Achieving low thermal conductivity and high quality factor in sextuple-do
   TiS2
 authors:
 - Jinxue Ding
-- Wei Li
+- admin
 - Moritz Thiem
 - Konstantin P. Skokov
 - Nina Kintop

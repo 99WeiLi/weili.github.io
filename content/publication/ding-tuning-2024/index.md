@@ -4,7 +4,7 @@ title: Tuning anisotropic thermoelectric properties of TiS2–x compounds via in
 authors:
 - Jinxue Ding
 - Chuanmu Tian
-- Wei Li
+- admin
 - Jonas Spielmann
 - Clément Maheu
 - Nina Kintop

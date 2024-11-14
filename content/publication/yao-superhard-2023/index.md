@@ -8,7 +8,7 @@ authors:
 - Songpeng Zhang
 - Yanping Huang
 - Yongsheng Zhao
-- Wei Li
+- admin
 - Xingbin Zhao
 - Hao Jiang
 - Qiang Tao

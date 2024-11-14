@@ -3,7 +3,7 @@ title: Temperature‐dependent mechanical and oxidation behavior of in situ form
   ‐containing Si$_textrm3$ N$_textrm4$ ‐based composite
 authors:
 - Jiongjie Liu
-- Wei Li
+- admin
 - Emmanuel Ricohermoso
 - Zhuihui Qiao
 - Qingwen Dai

@@ -3,7 +3,7 @@ title: Preparation of mullite whiskers reinforced SiC/Al2O3 composites by microw
   sintering
 authors:
 - Bingbing Fan
-- Wei Li
+- admin
 - Binzhou Dai
 - Keke Guan
 - Rui Zhang
