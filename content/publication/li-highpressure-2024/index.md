@@ -1,6 +1,5 @@
 ---
-title: High‐Pressure Synthesis of Amorphous Si$_textrm3$N$_textrm4$ and SiBN‐Based
-  Monoliths without Sintering Additives
+title: High‐Pressure Synthesis of Amorphous Si3N4 and SiBN‐Based Monoliths without Sintering Additives
 authors:
 - admin
 - Shuailing Ma
