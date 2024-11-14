@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Wei   Li
+title: Wei Li
 
 # Name pronunciation (optional)
 name_pronunciation: 
