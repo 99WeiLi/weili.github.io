@@ -27,8 +27,8 @@ sections:
           filename: stacked-peaks.svg
           filters:
             brightness: 1.0
-          size: auto 20px
-          position: top center
+          size: cover
+          position: center
           parallax: false
   - block: markdown
     content:
