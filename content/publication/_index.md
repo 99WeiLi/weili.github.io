@@ -9,4 +9,10 @@ view: citation
 banner:
   caption: ''
   image: ''
+
+{{ range .Pages }}
+{{ $index := add .Site.Params.publicationCount 1 }} <!-- The index number starts from 1 -->
+- **{{ $index }}. [{{ .Title }}]({{ .Permalink }})**  
+  {{ .Params.authors }} ({{ .Params.year }})
+{{ end }}
 ---
